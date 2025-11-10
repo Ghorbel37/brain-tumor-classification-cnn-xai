@@ -4,7 +4,6 @@ A comprehensive deep learning project for automated brain tumor classification u
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19.0-orange.svg)](https://tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF.svg)](https://www.kaggle.com/datasets/shuvokumarbasakbd/brain-tumors-mri-crystal-clean-colorized-mri-data)
 
 ## 📋 Table of Contents
