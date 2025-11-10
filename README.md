@@ -145,7 +145,11 @@ The project emphasizes both high accuracy and interpretability through Explainab
 
 1. **Open Notebooks in Colab:**
    
+   **Brain Tumor Classification CNN + XAI**
+   
    [![Open CNN+XAI in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghorbel37/brain-tumor-classification-cnn-xai/blob/main/Brain_Tumor_Classification_CNN_XAI.ipynb)
+   
+   **Brain Tumor Classification ML**
    
    [![Open ML in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghorbel37/brain-tumor-classification-cnn-xai/blob/main/Brain_Tumor_Classification_ML.ipynb)
    
