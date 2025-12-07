@@ -153,6 +153,10 @@ The project emphasizes both high accuracy and interpretability through Explainab
    **Brain Tumor Classification ML**
    
    [![Open ML in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghorbel37/brain-tumor-classification-cnn-xai/blob/main/Brain_Tumor_Classification_ML.ipynb)
+
+   **Brain Tumor Classification SIC**
+   
+   [![Open ML in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghorbel37/brain-tumor-classification-cnn-xai/blob/main/Brain_Tumor_Classification_SIC.ipynb)
    
 2. **Upload your `kaggle.json`:**
    - When prompted in the notebook, upload your Kaggle API credentials
@@ -225,6 +229,7 @@ print(classification_report(y_true, y_pred_classes))
 brain-tumor-classification-cnn-xai/
 ├── Brain_Tumor_Classification_CNN_XAI.ipynb    # Main CNN implementation with XAI
 ├── Brain_Tumor_Classification_ML.ipynb         # Traditional ML approaches
+├── Brain_Tumor_Classification_ML.ipynb         # Preprocessing, more models and deployment
 ├── requirements.txt                            # Python dependencies
 └── README.md                                   # This file
 ```
